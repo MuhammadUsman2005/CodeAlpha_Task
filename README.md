@@ -1,2 +1,2 @@
 # CodeAlpha_Task
-Code Alpha Tasks
+Completed the tasks assigned by CodeAlpha.
